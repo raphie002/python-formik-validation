@@ -1,3 +1,4 @@
+# server/migrations/versions/34690e39a5c9_create_db.py
 """create db
 
 Revision ID: 34690e39a5c9

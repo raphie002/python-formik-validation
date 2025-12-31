@@ -1,3 +1,4 @@
+// client/src/App.js
 import './App.css';
 import { SignupForm } from './components/Signup';
 function App() {

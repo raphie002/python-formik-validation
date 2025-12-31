@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-
+# server/seed.py
 import email
 from random import choice as rc, randint
 
-from faker import Faker
+from faker import Faker # type: ignore
 
 from app import app
 from models import db, Customer

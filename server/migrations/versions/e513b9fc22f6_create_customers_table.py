@@ -1,3 +1,4 @@
+# server/migrations/versions/e513b9fc22f6_create_customers_table.py
 """create customers table
 
 Revision ID: e513b9fc22f6

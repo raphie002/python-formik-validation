@@ -1,5 +1,6 @@
-from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy_serializer import SerializerMixin
+# server/models.py
+from flask_sqlalchemy import SQLAlchemy # type: ignore
+from sqlalchemy_serializer import SerializerMixin # type: ignore
 
 db = SQLAlchemy()
 
